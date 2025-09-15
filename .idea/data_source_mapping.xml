@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="mock:///BookService.java" value="9ba54933-6acb-4567-9829-6d729066c13d" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/9ba54933-6acb-4567-9829-6d729066c13d/console.sql" value="9ba54933-6acb-4567-9829-6d729066c13d" />
+  </component>
+</project>
